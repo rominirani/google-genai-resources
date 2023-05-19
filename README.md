@@ -32,11 +32,17 @@ Please submit additional resources in any of the sections below via the [Issues]
 - [Which AI/ML solution on Vertex AI](https://www.youtube.com/watch?v=AtyCqaOGoj4)
 
 # Cloud Skills Boost
-- Course : [Introduction to Generative AI](https://www.cloudskillsboost.google/course_templates/536)
+- Generative AI Learning Path
+  - Course : [Introduction to Generative AI](https://bit.ly/3OnAjcq)
+  - Course : [Introduction to Large Language Models](https://bit.ly/41Sf59T)
+  - Course : [Attention Mechanism](https://bit.ly/3oeMihU)
+  - Course : [Transformer Models and BERT Model](https://bit.ly/3OjCcae)
+  - Course : [Introduction to Image Generation](https://bit.ly/41XcFqh)
+  - Course : [Create Image Captioning Models](https://bit.ly/3INQGM7)
+  - Course : [Encoder-Decoder Architecture](https://bit.ly/41Sfbyh)
 - Quest: [Generative AI Explorer](https://www.cloudskillsboost.google/quests/299)
-- Lab : [Generative AI with Vertex AI: Getting Started](https://www.cloudskillsboost.google/focuses/62984?parent=catalog)
-- Lab : [Generative AI with Vertex AI: Prompt Design](https://www.cloudskillsboost.google/focuses/63006?parent=catalog)
-- Lab : [Generative AI with Vertex AI: Model Tuning](https://www.cloudskillsboost.google/focuses/62985?parent=catalog)
+  - Lab : [Generative AI with Vertex AI: Getting Started](https://www.cloudskillsboost.google/focuses/62984?parent=catalog)
+  - Lab : [Generative AI with Vertex AI: Prompt Design](https://www.cloudskillsboost.google/focuses/63006?parent=catalog)
 
 # Google I/O 2023 Announcements + Videos
 - Video: [Recap of Generative AI Announcements](https://www.youtube.com/shorts/EWLfMw-mfRs)
