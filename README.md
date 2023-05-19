@@ -60,5 +60,6 @@ Please submit additional resources in any of the sections below via the [Issues]
 This repository contains notebooks and content that demonstrate how to use, develop and manage generative AI workflows using Generative AI, powered by Vertex AI on Google Cloud.
 
 # Articles
-- Please submit articles via Issues in the repo. 
+- [Four new no-cost generative AI training courses to advance your cloud career](https://cloud.google.com/blog/topics/training-certifications/new-google-cloud-generative-ai-training-resources) 
+- [Introducing Duet AI for developers: The next frontier in AI-powered developer productivity](https://cloud.google.com/blog/products/application-development/introducing-duet-ai-for-developers)
 
