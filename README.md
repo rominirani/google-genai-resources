@@ -63,3 +63,5 @@ This repository contains notebooks and content that demonstrate how to use, deve
 - [Four new no-cost generative AI training courses to advance your cloud career](https://cloud.google.com/blog/topics/training-certifications/new-google-cloud-generative-ai-training-resources) 
 - [Introducing Duet AI for developers: The next frontier in AI-powered developer productivity](https://cloud.google.com/blog/products/application-development/introducing-duet-ai-for-developers)
 
+# Developer Blog Posts
+- [How to add rate limit and progress bar to Google Cloud Generative AI API calls ?](https://medium.com/google-cloud/how-to-add-rate-limit-and-progress-bar-to-google-cloud-generative-ai-api-calls-502b89d35de8?source=collection_home---4------0-----------------------)
