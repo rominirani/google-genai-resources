@@ -65,3 +65,4 @@ This repository contains notebooks and content that demonstrate how to use, deve
 
 # Developer Blog Posts
 - [How to add rate limit and progress bar to Google Cloud Generative AI API calls ?](https://medium.com/google-cloud/how-to-add-rate-limit-and-progress-bar-to-google-cloud-generative-ai-api-calls-502b89d35de8?source=collection_home---4------0-----------------------)
+- [Getting Started with Palm2](https://medium.com/google-cloud/generative-ai-getting-started-with-palm2-91a8354beeff)
