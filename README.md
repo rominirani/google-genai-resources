@@ -30,6 +30,8 @@ Please submit additional resources in any of the sections below via the [Issues]
 - [Introduction to Generative AI](https://www.youtube.com/watch?v=G2fqAlgmoPo)
 - [Generative AI Playlist for Developers](https://www.youtube.com/playlist?list=PLIivdWyY5sqLRCzKJyixrIDPQKwU6XHpn)
 - [Which AI/ML solution on Vertex AI](https://www.youtube.com/watch?v=AtyCqaOGoj4)
+- [Introducting Duet AI for Code Assistance](https://www.youtube.com/watch?v=M55Qd2H9hhk)
+- [Introduction to foundation models on Google Cloud](https://www.youtube.com/watch?v=M55Qd2H9hhk)
 
 # Cloud Skills Boost
 - Generative AI Learning Path
