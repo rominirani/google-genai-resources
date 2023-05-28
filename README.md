@@ -25,13 +25,17 @@ Please submit additional resources in any of the sections below via the [Issues]
   - [Sample Apps](https://developers.generativeai.google/develop/sample-apps)
   - [API Reference](https://developers.generativeai.google/api)  
  
-# Videos
+# YouTube Videos
+- [Generative AI for Developers - Playlist](https://www.youtube.com/playlist?list=PLIivdWyY5sqLRCzKJyixrIDPQKwU6XHpn)
+  - [Introduction to Machine Learning on Vertex AI](https://www.youtube.com/watch?v=-3Olw-C4FN4&list=PLIivdWyY5sqLRCzKJyixrIDPQKwU6XHpn&index=1&pp=iAQB)
+  - [Prototyping Language Apps with Generative AI Studio](https://www.youtube.com/watch?v=9_zwIyutN7o&list=PLIivdWyY5sqLRCzKJyixrIDPQKwU6XHpn&index=2&t=1s&pp=iAQB)
+  - [How to tune LLMs in Generative AI Studio](https://www.youtube.com/watch?v=4A4W03qUTsw&list=PLIivdWyY5sqLRCzKJyixrIDPQKwU6XHpn&index=3&pp=iAQB)
+  - [Introduction to foundational models on Google Cloud](https://www.youtube.com/watch?v=YCZ6nwGnL4o&list=PLIivdWyY5sqLRCzKJyixrIDPQKwU6XHpn&index=4&pp=iAQB)
+  - [Enterprise Search via Generative AI App Builder](https://www.youtube.com/watch?v=fY8aOe6H2nw&list=PLIivdWyY5sqLRCzKJyixrIDPQKwU6XHpn&index=5&pp=iAQB) 
 - [Introduction to Large Language Models](https://www.youtube.com/watch?v=zizonToFXDs)
 - [Introduction to Generative AI](https://www.youtube.com/watch?v=G2fqAlgmoPo)
-- [Generative AI Playlist for Developers](https://www.youtube.com/playlist?list=PLIivdWyY5sqLRCzKJyixrIDPQKwU6XHpn)
 - [Which AI/ML solution on Vertex AI](https://www.youtube.com/watch?v=AtyCqaOGoj4)
-- [Introducting Duet AI for Code Assistance](https://www.youtube.com/watch?v=M55Qd2H9hhk)
-- [Introduction to foundation models on Google Cloud](https://www.youtube.com/watch?v=M55Qd2H9hhk)
+- [Introducing Duet AI for Code Assistance](https://www.youtube.com/watch?v=M55Qd2H9hhk)
 
 # Cloud Skills Boost
 - Generative AI Learning Path
@@ -61,10 +65,12 @@ Please submit additional resources in any of the sections below via the [Issues]
 - [Google Cloud Generative AI repository](https://github.com/GoogleCloudPlatform/generative-ai/tree/main): 
 This repository contains notebooks and content that demonstrate how to use, develop and manage generative AI workflows using Generative AI, powered by Vertex AI on Google Cloud.
 
-# Articles
+# Articles (Google.com Blog)
 - [Four new no-cost generative AI training courses to advance your cloud career](https://cloud.google.com/blog/topics/training-certifications/new-google-cloud-generative-ai-training-resources) 
 - [Introducing Duet AI for developers: The next frontier in AI-powered developer productivity](https://cloud.google.com/blog/products/application-development/introducing-duet-ai-for-developers)
 
-# Developer Blog Posts
+# Developer Blog Posts (Medium and other places)
+- [Generative AI — PaLM-2 model deployment with Cloud Run](https://rafaelsf80.medium.com/generative-ai-palm-2-model-deployment-with-cloud-run-54e8a398b24b)
+- [Getting Started with Generative AI Studio on Google Cloud](https://medium.com/google-cloud/getting-started-with-generative-ai-studio-on-google-cloud-5c77dfa8d044)
 - [How to add rate limit and progress bar to Google Cloud Generative AI API calls ?](https://medium.com/google-cloud/how-to-add-rate-limit-and-progress-bar-to-google-cloud-generative-ai-api-calls-502b89d35de8?source=collection_home---4------0-----------------------)
 - [Getting Started with Palm2](https://medium.com/google-cloud/generative-ai-getting-started-with-palm2-91a8354beeff)
