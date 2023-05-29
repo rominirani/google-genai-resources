@@ -66,10 +66,13 @@ Please submit additional resources in any of the sections below via the [Issues]
 This repository contains notebooks and content that demonstrate how to use, develop and manage generative AI workflows using Generative AI, powered by Vertex AI on Google Cloud.
 
 # Articles (Google.com Blog)
-- [Four new no-cost generative AI training courses to advance your cloud career](https://cloud.google.com/blog/topics/training-certifications/new-google-cloud-generative-ai-training-resources) 
+- [Vertex AI Embeddings for Text: Grounding LLMs made easy](https://cloud.google.com/blog/products/ai-machine-learning/how-to-use-grounding-for-your-llms-with-text-embeddings)
+- [Bringing the power of large models to Google Cloud’s Speech API](https://cloud.google.com/blog/products/ai-machine-learning/bringing-power-large-models-google-clouds-speech-api)
+- [Seven new no-cost generative AI training courses to advance your cloud career](https://cloud.google.com/blog/topics/training-certifications/new-google-cloud-generative-ai-training-resources) 
 - [Introducing Duet AI for developers: The next frontier in AI-powered developer productivity](https://cloud.google.com/blog/products/application-development/introducing-duet-ai-for-developers)
 
 # Developer Blog Posts (Medium and other places)
+- [How to Use LLMs to Generate Concise Summaries of Text](https://medium.com/google-cloud/how-to-use-llms-to-generate-concise-summaries-of-text-a04966659ed)
 - [Generative AI — PaLM-2 model deployment with Cloud Run](https://rafaelsf80.medium.com/generative-ai-palm-2-model-deployment-with-cloud-run-54e8a398b24b)
 - [Getting Started with Generative AI Studio on Google Cloud](https://medium.com/google-cloud/getting-started-with-generative-ai-studio-on-google-cloud-5c77dfa8d044)
 - [How to add rate limit and progress bar to Google Cloud Generative AI API calls ?](https://medium.com/google-cloud/how-to-add-rate-limit-and-progress-bar-to-google-cloud-generative-ai-api-calls-502b89d35de8?source=collection_home---4------0-----------------------)
