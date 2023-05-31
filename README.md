@@ -38,7 +38,7 @@ Please submit additional resources in any of the sections below via the [Issues]
 - [Introducing Duet AI for Code Assistance](https://www.youtube.com/watch?v=M55Qd2H9hhk)
 
 # Cloud Skills Boost
-- Generative AI Learning Path
+- [Generative AI Learning Path](https://www.cloudskillsboost.google/journeys/118)
   - Course : [Introduction to Generative AI](https://bit.ly/3OnAjcq)
   - Course : [Introduction to Large Language Models](https://bit.ly/41Sf59T)
   - Course : [Attention Mechanism](https://bit.ly/3oeMihU)
@@ -47,8 +47,9 @@ Please submit additional resources in any of the sections below via the [Issues]
   - Course : [Create Image Captioning Models](https://bit.ly/3INQGM7)
   - Course : [Encoder-Decoder Architecture](https://bit.ly/41Sfbyh)
 - Quest: [Generative AI Explorer](https://www.cloudskillsboost.google/quests/299)
-  - Lab : [Generative AI with Vertex AI: Getting Started](https://www.cloudskillsboost.google/focuses/62984?parent=catalog)
-  - Lab : [Generative AI with Vertex AI: Prompt Design](https://www.cloudskillsboost.google/focuses/63006?parent=catalog)
+  - Lab : [Generative AI with Vertex AI: Getting Started](https://bit.ly/43y5NRD)
+  - Lab : [Generative AI with Vertex AI: Prompt Design](https://bit.ly/45EfMGP)
+- Lab : [Get Started with Generative AI Studio](https://bit.ly/3oALVP1)
 
 # Google I/O 2023 Announcements + Videos
 - Video: [Recap of Generative AI Announcements](https://www.youtube.com/shorts/EWLfMw-mfRs)
