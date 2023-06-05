@@ -41,15 +41,14 @@ Please submit additional resources in any of the sections below via the [Issues]
 - [Generative AI Learning Path](https://www.cloudskillsboost.google/journeys/118)
   - Course : [Introduction to Generative AI](https://bit.ly/3OnAjcq)
   - Course : [Introduction to Large Language Models](https://bit.ly/41Sf59T)
+  - Course : [Introduction to Responsible AI](https://bit.ly/3CcxUdy)
   - Course : [Attention Mechanism](https://bit.ly/3oeMihU)
   - Course : [Transformer Models and BERT Model](https://bit.ly/3OjCcae)
   - Course : [Introduction to Image Generation](https://bit.ly/41XcFqh)
   - Course : [Create Image Captioning Models](https://bit.ly/3INQGM7)
   - Course : [Encoder-Decoder Architecture](https://bit.ly/41Sfbyh)
-- Quest: [Generative AI Explorer](https://www.cloudskillsboost.google/quests/299)
-  - Lab : [Generative AI with Vertex AI: Getting Started](https://bit.ly/43y5NRD)
-  - Lab : [Generative AI with Vertex AI: Prompt Design](https://bit.ly/45EfMGP)
-- Lab : [Get Started with Generative AI Studio](https://bit.ly/3oALVP1)
+  - Course : [Introduction to Generative AI Studio](https://bit.ly/3Cbzr3n)
+  - Course : [Generative AI Explorer - Vertex AI](https://bit.ly/3WMn7QF)
 
 # Google I/O 2023 Announcements + Videos
 - Video: [Recap of Generative AI Announcements](https://www.youtube.com/shorts/EWLfMw-mfRs)
