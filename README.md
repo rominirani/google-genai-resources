@@ -71,8 +71,10 @@ This repository contains notebooks and content that demonstrate how to use, deve
 - [Bringing the power of large models to Google Cloud’s Speech API](https://cloud.google.com/blog/products/ai-machine-learning/bringing-power-large-models-google-clouds-speech-api)
 - [Seven new no-cost generative AI training courses to advance your cloud career](https://cloud.google.com/blog/topics/training-certifications/new-google-cloud-generative-ai-training-resources) 
 - [Introducing Duet AI for developers: The next frontier in AI-powered developer productivity](https://cloud.google.com/blog/products/application-development/introducing-duet-ai-for-developers)
+- [Supercharging Search with Generative AI](https://blog.google/products/search/generative-ai-search/)
 
 # Developer Blog Posts (Medium and other places)
+- [Google’s Generative AI Stack: An In-Depth Analysis](https://thenewstack.io/googles-generative-ai-stack-an-in-depth-analysis/)
 - [Generative AI - Document Retrieval and Question Answering with LLMs](https://medium.com/google-cloud/generative-ai-document-retrieval-and-question-answering-with-llms-2b0fb80ae76d)
 - [Pulumi AI — Leveraging LLMs for IaC with GCP](https://medium.com/google-cloud/pulumi-ai-leveraging-llms-for-iac-with-gcp-909cd3673926)
 - [Generative AI - Best Practices for LLM Prompt Engineering](https://medium.com/google-cloud/generative-ai-best-practices-for-llm-prompt-engineering-2a0131c805cc)
