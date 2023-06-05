@@ -73,6 +73,9 @@ This repository contains notebooks and content that demonstrate how to use, deve
 - [Introducing Duet AI for developers: The next frontier in AI-powered developer productivity](https://cloud.google.com/blog/products/application-development/introducing-duet-ai-for-developers)
 
 # Developer Blog Posts (Medium and other places)
+- [Generative AI - Document Retrieval and Question Answering with LLMs](https://medium.com/google-cloud/generative-ai-document-retrieval-and-question-answering-with-llms-2b0fb80ae76d)
+- [Pulumi AI — Leveraging LLMs for IaC with GCP](https://medium.com/google-cloud/pulumi-ai-leveraging-llms-for-iac-with-gcp-909cd3673926)
+- [Generative AI - Best Practices for LLM Prompt Engineering](https://medium.com/google-cloud/generative-ai-best-practices-for-llm-prompt-engineering-2a0131c805cc)
 - [How to Use LLMs to Generate Concise Summaries of Text](https://medium.com/google-cloud/how-to-use-llms-to-generate-concise-summaries-of-text-a04966659ed)
 - [Generative AI — PaLM-2 model deployment with Cloud Run](https://rafaelsf80.medium.com/generative-ai-palm-2-model-deployment-with-cloud-run-54e8a398b24b)
 - [Getting Started with Generative AI Studio on Google Cloud](https://medium.com/google-cloud/getting-started-with-generative-ai-studio-on-google-cloud-5c77dfa8d044)
