@@ -32,6 +32,7 @@ Please submit additional resources in any of the sections below via the [Issues]
   - [How to tune LLMs in Generative AI Studio](https://www.youtube.com/watch?v=4A4W03qUTsw&list=PLIivdWyY5sqLRCzKJyixrIDPQKwU6XHpn&index=3&pp=iAQB)
   - [Introduction to foundational models on Google Cloud](https://www.youtube.com/watch?v=YCZ6nwGnL4o&list=PLIivdWyY5sqLRCzKJyixrIDPQKwU6XHpn&index=4&pp=iAQB)
   - [Enterprise Search via Generative AI App Builder](https://www.youtube.com/watch?v=fY8aOe6H2nw&list=PLIivdWyY5sqLRCzKJyixrIDPQKwU6XHpn&index=5&pp=iAQB) 
+  - [Generate and edit images with Generative AI Studio](https://www.youtube.com/watch?v=6n5ngB88DHU&list=PLIivdWyY5sqLRCzKJyixrIDPQKwU6XHpn)
 - [Introduction to Large Language Models](https://www.youtube.com/watch?v=zizonToFXDs)
 - [Introduction to Generative AI](https://www.youtube.com/watch?v=G2fqAlgmoPo)
 - [Which AI/ML solution on Vertex AI](https://www.youtube.com/watch?v=AtyCqaOGoj4)
