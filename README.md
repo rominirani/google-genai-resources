@@ -33,6 +33,7 @@ Please submit additional resources in any of the sections below via the [Issues]
   - [Introduction to foundational models on Google Cloud](https://www.youtube.com/watch?v=YCZ6nwGnL4o&list=PLIivdWyY5sqLRCzKJyixrIDPQKwU6XHpn&index=4&pp=iAQB)
   - [Enterprise Search via Generative AI App Builder](https://www.youtube.com/watch?v=fY8aOe6H2nw&list=PLIivdWyY5sqLRCzKJyixrIDPQKwU6XHpn&index=5&pp=iAQB) 
   - [Generate and edit images with Generative AI Studio](https://www.youtube.com/watch?v=6n5ngB88DHU&list=PLIivdWyY5sqLRCzKJyixrIDPQKwU6XHpn)
+  - [Introduction to Vertex AI Model Garden](https://www.youtube.com/watch?v=I7UiSU96CLc&list=PLIivdWyY5sqLRCzKJyixrIDPQKwU6XHpn&index=8)
 - [Introduction to Large Language Models](https://www.youtube.com/watch?v=zizonToFXDs)
 - [Introduction to Generative AI](https://www.youtube.com/watch?v=G2fqAlgmoPo)
 - [Which AI/ML solution on Vertex AI](https://www.youtube.com/watch?v=AtyCqaOGoj4)
@@ -50,6 +51,7 @@ Please submit additional resources in any of the sections below via the [Issues]
   - Course : [Encoder-Decoder Architecture](https://bit.ly/41Sfbyh)
   - Course : [Introduction to Generative AI Studio](https://bit.ly/3Cbzr3n)
   - Course : [Generative AI Explorer - Vertex AI](https://bit.ly/3WMn7QF)
+  - Course : [Generative AI Fundamentals](https://bit.ly/3J21upR)
 
 # Google I/O 2023 Announcements + Videos
 - Video: [Recap of Generative AI Announcements](https://www.youtube.com/shorts/EWLfMw-mfRs)
@@ -67,6 +69,9 @@ Please submit additional resources in any of the sections below via the [Issues]
 This repository contains notebooks and content that demonstrate how to use, develop and manage generative AI workflows using Generative AI, powered by Vertex AI on Google Cloud.
 
 # Articles (Google.com Blog)
+- [Generative AI support on Vertex AI is now generally available](https://cloud.google.com/blog/products/ai-machine-learning/generative-ai-support-on-vertexai)
+- [Helping businesses with generative AI](https://cloud.google.com/blog/products/ai-machine-learning/generative-ai-for-industries)
+- [Improving search experiences with Enterprise Search on Gen App Builder](https://cloud.google.com/blog/products/ai-machine-learning/enterprise-search-on-gen-app-builder)
 - [Vertex AI Embeddings for Text: Grounding LLMs made easy](https://cloud.google.com/blog/products/ai-machine-learning/how-to-use-grounding-for-your-llms-with-text-embeddings)
 - [Bringing the power of large models to Google Cloud’s Speech API](https://cloud.google.com/blog/products/ai-machine-learning/bringing-power-large-models-google-clouds-speech-api)
 - [Seven new no-cost generative AI training courses to advance your cloud career](https://cloud.google.com/blog/topics/training-certifications/new-google-cloud-generative-ai-training-resources) 
