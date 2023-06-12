@@ -24,6 +24,7 @@ Please submit additional resources in any of the sections below via the [Issues]
   - [Prompt Gallery](https://developers.generativeai.google/prompt-gallery)
   - [Sample Apps](https://developers.generativeai.google/develop/sample-apps)
   - [API Reference](https://developers.generativeai.google/api)  
+  - [Firebase Extensions](https://developers.generativeai.google/tools/firebase_extensions)
  
 # YouTube Videos
 - [Generative AI for Developers - Playlist](https://www.youtube.com/playlist?list=PLIivdWyY5sqLRCzKJyixrIDPQKwU6XHpn)
@@ -38,6 +39,7 @@ Please submit additional resources in any of the sections below via the [Issues]
 - [Introduction to Generative AI](https://www.youtube.com/watch?v=G2fqAlgmoPo)
 - [Which AI/ML solution on Vertex AI](https://www.youtube.com/watch?v=AtyCqaOGoj4)
 - [Introducing Duet AI for Code Assistance](https://www.youtube.com/watch?v=M55Qd2H9hhk)
+- [How would AI impact the future of ML Engineers](https://youtu.be/uejAJSynLJo)
 
 # Cloud Skills Boost
 - [Generative AI Learning Path](https://www.cloudskillsboost.google/journeys/118)
@@ -79,6 +81,7 @@ This repository contains notebooks and content that demonstrate how to use, deve
 - [Supercharging Search with Generative AI](https://blog.google/products/search/generative-ai-search/)
 
 # Developer Blog Posts (Medium and other places)
+- [Highlight your generative AI skills by earning the new no-cost skill badge](https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-generative-ai-skill-badge)
 - [Google’s Generative AI Stack: An In-Depth Analysis](https://thenewstack.io/googles-generative-ai-stack-an-in-depth-analysis/)
 - [Generative AI - Document Retrieval and Question Answering with LLMs](https://medium.com/google-cloud/generative-ai-document-retrieval-and-question-answering-with-llms-2b0fb80ae76d)
 - [Pulumi AI — Leveraging LLMs for IaC with GCP](https://medium.com/google-cloud/pulumi-ai-leveraging-llms-for-iac-with-gcp-909cd3673926)
