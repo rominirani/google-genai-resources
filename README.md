@@ -71,6 +71,7 @@ Please submit additional resources in any of the sections below via the [Issues]
 This repository contains notebooks and content that demonstrate how to use, develop and manage generative AI workflows using Generative AI, powered by Vertex AI on Google Cloud.
 
 # Articles (Google.com Blog)
+- [Generative AI: The next phase of cloud transformation for communications service providers](https://cloud.google.com/blog/topics/telecommunications/the-promise-of-generative-ai-in-telecommunications)
 - [Generative AI support on Vertex AI is now generally available](https://cloud.google.com/blog/products/ai-machine-learning/generative-ai-support-on-vertexai)
 - [Helping businesses with generative AI](https://cloud.google.com/blog/products/ai-machine-learning/generative-ai-for-industries)
 - [Improving search experiences with Enterprise Search on Gen App Builder](https://cloud.google.com/blog/products/ai-machine-learning/enterprise-search-on-gen-app-builder)
@@ -81,6 +82,10 @@ This repository contains notebooks and content that demonstrate how to use, deve
 - [Supercharging Search with Generative AI](https://blog.google/products/search/generative-ai-search/)
 
 # Developer Blog Posts (Medium and other places)
+- [Generative AI - Understand and Mitigate Hallucinations in LLMs](https://medium.com/google-cloud/generative-ai-understand-and-mitigate-hallucinations-in-llms-8af7de2f17e2)
+- [Generative AI - Mastering the Language Model Parameters for Better Outputs](https://medium.com/google-cloud/generative-ai-mastering-the-language-model-parameters-for-better-outputs-a82b07b4e383)
+- [BigQuery Breaking News — Generative AI](https://medium.com/google-cloud/bigquery-breaking-news-generative-ai-8c6d14bd4568)
+- Generative AI Learning Path Notes — [Part 1](https://medium.com/google-cloud/generative-ai-learning-path-notes-part-1-d36bc565df1f) and [Part 2](https://medium.com/google-cloud/generative-ai-learning-path-notes-part-2-78a1855f6bd0)
 - [Highlight your generative AI skills by earning the new no-cost skill badge](https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-generative-ai-skill-badge)
 - [Google’s Generative AI Stack: An In-Depth Analysis](https://thenewstack.io/googles-generative-ai-stack-an-in-depth-analysis/)
 - [Generative AI - Document Retrieval and Question Answering with LLMs](https://medium.com/google-cloud/generative-ai-document-retrieval-and-question-answering-with-llms-2b0fb80ae76d)
