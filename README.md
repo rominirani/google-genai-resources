@@ -6,17 +6,17 @@ Please submit additional resources in any of the sections below via the [Issues]
 # Official Documentation
 - [Generative AI on Google Cloud](https://cloud.google.com/ai/generative-ai)
 
+# Join Trusted Tester Program
+Several products in Google Generative AI offerings are currently available for Trusted Testers only. Take a look at the products available for Trusted Testers and sign up [here](https://cloud.google.com/ai/earlyaccess/join).
+
 # Products
 - Generative AI support on Vertex AI ([Your Guide](https://cloud.google.com/blog/products/ai-machine-learning/vertex-ai-model-garden-and-generative-ai-studio), [Demo](https://youtube.com/watch?v=pN-RTBq6i3I))
   - [Vertex AI](https://cloud.google.com/vertex-ai)
   - [Model Garden](https://cloud.google.com/model-garden)
   - [Generative AI Studio](https://cloud.google.com/generative-ai-studio) 
 - Generative AI App Builder ([Blog](https://cloud.google.com/blog/products/ai-machine-learning/create-generative-apps-in-minutes-with-gen-app-builder), [Video 1](https://youtube.com/watch?v=0vM5UWC5crs), [Video 2](https://youtube.com/watch?v=kOmG83wGfTs))
-  - [Available to Trusted Testers - Join the waitlist](https://cloud.google.com/ai/earlyaccess/join)
 - Duet AI for Google Workspace ([Blog](https://workspace.google.com/blog/product-announcements/generative-ai), [Video](https://www.youtube.com/watch?v=6DaJVZBXETE))
-  - [Available to Trusted Testers - Join the waitlist](https://cloud.google.com/ai/earlyaccess/join)
 - Duet AI for Google Cloud ([Blog](https://cloud.google.com/blog/products/application-modernization/introducing-duet-ai-for-google-cloud), [Video](https://www.youtube.com/watch?v=g5TwQx60NXs))
-  - [Available to Trusted Testers - Join the waitlist](https://cloud.google.com/ai/earlyaccess/join)
 - Generative AI for Developers
   - [Palm API for Developers](https://developers.generativeai.google/products/palm)
   - [MakerSuite](https://developers.generativeai.google/products/makersuite)
