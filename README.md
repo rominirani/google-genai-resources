@@ -90,8 +90,10 @@ This repository contains notebooks and content that demonstrate how to use, deve
 - [Introducing Duet AI for developers: The next frontier in AI-powered developer productivity](https://cloud.google.com/blog/products/application-development/introducing-duet-ai-for-developers)
 - [Supercharging Search with Generative AI](https://blog.google/products/search/generative-ai-search/)
 
-## Developer Blog Posts ([Google Cloud Medium Community](https://medium.com/google-cloud) and other places)
+## Developer Blog Posts + Videos ([Google Cloud Medium Community](https://medium.com/google-cloud) and other places)
 
+- **New*** [Video - Google Bard and a Gentle Introduction to Generative AI - AwesomeGCP](https://www.youtube.com/watch?v=YpEcdWM8Ur0)
+- **New*** [Video - Detailed Code Generation Prompts for Google Bard 0- AwesomeGCP](https://www.youtube.com/watch?v=SlasaaWaYr8)
 - **New*** [Generative AI - Image Generation using Vertex AI Imagen](https://medium.com/google-cloud/generative-ai-vertex-ai-image-generation-imagen-2ebc7f884b7a)
 - **New*** [Google Cloud for Education: Strategy Segmentation using Generative AI](https://medium.com/google-cloud/google-cloud-for-education-strategy-segmentation-using-generative-ai-9645368a69c0)
 - **New*** [Generative AI - Learn the LangChain Basics by Building a Berlin Travel Guide](https://medium.com/google-cloud/generative-ai-learn-the-langchain-basics-by-building-a-berlin-travel-guide-5cc0a2ce4096)
