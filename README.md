@@ -10,10 +10,15 @@ Please submit additional resources in any of the sections below via the [Issues]
 Several products in Google Generative AI offerings are currently available for Trusted Testers only. Take a look at the products available for Trusted Testers and sign up [here](https://cloud.google.com/ai/earlyaccess/join).
 
 ## Products
-- Generative AI support on Vertex AI ([Your Guide](https://cloud.google.com/blog/products/ai-machine-learning/vertex-ai-model-garden-and-generative-ai-studio), [Demo](https://youtube.com/watch?v=pN-RTBq6i3I))
-  - [Vertex AI](https://cloud.google.com/vertex-ai)
-  - [Model Garden](https://cloud.google.com/model-garden)
+- Generative AI support on [Vertex AI](https://cloud.google.com/vertex-ai)
+  - [Overview](https://cloud.google.com/vertex-ai/docs/generative-ai/learn/overview)
   - [Generative AI Studio](https://cloud.google.com/generative-ai-studio) 
+  - [Available Models](https://cloud.google.com/vertex-ai/docs/generative-ai/learn/generative-ai-studio)
+    - Language Models ([Text](https://cloud.google.com/vertex-ai/docs/generative-ai/text/text-overview), [Code](https://cloud.google.com/vertex-ai/docs/generative-ai/code/code-models-overview), [Chat](https://cloud.google.com/vertex-ai/docs/generative-ai/chat/chat-prompts))
+    - Image Models ([link](https://cloud.google.com/vertex-ai/docs/generative-ai/image/overview))
+    - Speech Models ([Text-to-Speech](https://cloud.google.com/vertex-ai/docs/generative-ai/speech/text-to-speech) , [Speech-To-Text](https://cloud.google.com/vertex-ai/docs/generative-ai/speech/speech-to-text))
+  - [Model Garden](https://cloud.google.com/model-garden)
+  - [Pricing](https://cloud.google.com/vertex-ai/pricing#generative_ai_models)
 - Generative AI App Builder ([Blog](https://cloud.google.com/blog/products/ai-machine-learning/create-generative-apps-in-minutes-with-gen-app-builder), [Video 1](https://youtube.com/watch?v=0vM5UWC5crs), [Video 2](https://youtube.com/watch?v=kOmG83wGfTs))
 - Duet AI for Google Workspace ([Blog](https://workspace.google.com/blog/product-announcements/generative-ai), [Video](https://www.youtube.com/watch?v=6DaJVZBXETE))
 - Duet AI for Google Cloud ([Blog](https://cloud.google.com/blog/products/application-modernization/introducing-duet-ai-for-google-cloud), [Video](https://www.youtube.com/watch?v=g5TwQx60NXs))
