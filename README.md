@@ -92,6 +92,8 @@ This repository contains notebooks and content that demonstrate how to use, deve
 
 ## Developer Blog Posts + Videos ([Google Cloud Medium Community](https://medium.com/google-cloud) and other places)
 
+- **New*** [Govern Vertex AI Generative AI / Large Language Model Access With Quotas](https://medium.com/google-cloud/governing-vertex-ai-gen-ai-llm-model-access-via-quotas-19df2c53fccd)
+- **New*** [Building a GST FAQs Appwith Streamlit, Langchain, HuggingFace and VertexAI Palm APIs](https://medium.com/google-cloud/building-a-gst-faqs-app-d8d903eb9c6)
 - **New*** [How to quickly build a voice-activated chatbot to interact with Vertex AI models](https://www.googlecloudcommunity.com/gc/Community-Blogs/How-to-quickly-build-a-voice-activated-chatbot-to-interact-with/ba-p/618715)
 - **New*** [Ease into similarity search with Google’s PaLM API](https://www.infoworld.com/article/3703059/ease-into-similarity-search-with-googles-palm-api.html)
 - **New*** [Build a chatbot with Google’s PaLM API](https://www.infoworld.com/article/3702774/build-a-chatbot-with-google-palm-api.html)
