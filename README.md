@@ -92,6 +92,7 @@ This repository contains notebooks and content that demonstrate how to use, deve
 
 ## Developer Blog Posts + Videos ([Google Cloud Medium Community](https://medium.com/google-cloud) and other places)
 
+- **New*** [How to quickly build a voice-activated chatbot to interact with Vertex AI models](https://www.googlecloudcommunity.com/gc/Community-Blogs/How-to-quickly-build-a-voice-activated-chatbot-to-interact-with/ba-p/618715)
 - **New*** [Ease into similarity search with Google’s PaLM API](https://www.infoworld.com/article/3703059/ease-into-similarity-search-with-googles-palm-api.html)
 - **New*** [Build a chatbot with Google’s PaLM API](https://www.infoworld.com/article/3702774/build-a-chatbot-with-google-palm-api.html)
 - **New*** [Competitor Analytics with Langchain Agents and Vertex Palm API](https://medium.com/google-cloud/competitor-analytics-with-langchain-agents-and-vertex-palm-api-410453cecd83)
