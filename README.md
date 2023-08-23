@@ -88,6 +88,9 @@ This repository contains notebooks and content that demonstrate how to use, deve
 
 ## Developer Blog Posts + Videos ([Google Cloud Medium Community](https://medium.com/google-cloud) and other places)
 
+- **New*** [The Science of Architectural Design: How Foundational Models can help to group building styles](https://medium.com/google-cloud/the-science-of-architectural-design-how-foundational-models-can-help-to-group-building-styles-e5bb68b5b261)
+- **New*** [The Ultimate Guide to Using Generative Fallbacks in Dialogflow CX](https://medium.com/google-cloud/the-ultimate-guide-to-using-generative-fallbacks-in-dialogflow-cx-4ccd6d60512)
+- **New*** [Getting Started with Generative AI in Angular](https://medium.com/google-cloud/getting-started-with-generative-ai-in-angular-b72737a59982)
 - **New*** [Using Vertex AI to perform Semantic Searches for images](https://medium.com/google-cloud/how-to-perform-semantic-searches-for-images-with-vertex-ai-c7dacf8ee8ac)
 - **New*** [Govern Vertex AI Generative AI / Large Language Model Access With Quotas](https://medium.com/google-cloud/governing-vertex-ai-gen-ai-llm-model-access-via-quotas-19df2c53fccd)
 - **New*** [Building a GST FAQs Appwith Streamlit, Langchain, HuggingFace and VertexAI Palm APIs](https://medium.com/google-cloud/building-a-gst-faqs-app-d8d903eb9c6)
