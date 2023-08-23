@@ -65,7 +65,8 @@ Several products in Google Generative AI offerings are currently available for T
 This repository contains notebooks and content that demonstrate how to use, develop and manage generative AI workflows using Generative AI, powered by Vertex AI on Google Cloud.
 
 ## Articles (Google.com Blog)
-- **New*** [https://cloud.google.com/blog/products/application-development/five-best-practices-for-prompt-engineering](https://cloud.google.com/blog/products/application-development/five-best-practices-for-prompt-engineering)
+- **New*** [What is Multimodal Search: "LLMs with vision" change businesses](https://cloud.google.com/blog/products/ai-machine-learning/multimodal-generative-ai-search)
+- **New*** [Tips to enhance your prompt-engineering abilities](https://cloud.google.com/blog/products/application-development/five-best-practices-for-prompt-engineering)
 - **New*** [4 key learnings to kickstart your startup's generative AI journey](https://cloud.google.com/blog/topics/startups/generative-ai-for-startups-on-google-cloud)
 - **New*** [Building Generative AI applications made easy with Vertex AI PaLM API and LangChain](https://cloud.google.com/blog/products/ai-machine-learning/generative-ai-applications-with-vertex-ai-palm-2-models-and-langchain)
 - **New*** [Cloud Speech-to-Text V2 API and Chirp are now Generally Available with new lower pricing tier](https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-speech-to-text-v2-api)
