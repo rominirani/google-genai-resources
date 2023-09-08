@@ -13,15 +13,15 @@ Several products in Google Generative AI offerings are currently available for T
 - Generative AI support on [Vertex AI](https://cloud.google.com/vertex-ai)
   - [Overview](https://cloud.google.com/vertex-ai/docs/generative-ai/learn/overview)
   - [Generative AI Studio](https://cloud.google.com/generative-ai-studio) 
-  - [Available Models](https://cloud.google.com/vertex-ai/docs/generative-ai/learn/generative-ai-studio)
+  - [Available Models](https://cloud.google.com/vertex-ai/docs/generative-ai/learn/models)
     - Language Models ([Text](https://cloud.google.com/vertex-ai/docs/generative-ai/text/text-overview), [Code](https://cloud.google.com/vertex-ai/docs/generative-ai/code/code-models-overview), [Chat](https://cloud.google.com/vertex-ai/docs/generative-ai/chat/chat-prompts))
     - Image Models ([link](https://cloud.google.com/vertex-ai/docs/generative-ai/image/overview))
     - Speech Models ([Text-to-Speech](https://cloud.google.com/vertex-ai/docs/generative-ai/speech/text-to-speech) , [Speech-To-Text](https://cloud.google.com/vertex-ai/docs/generative-ai/speech/speech-to-text))
   - [Model Garden](https://cloud.google.com/model-garden)
   - [Pricing](https://cloud.google.com/vertex-ai/pricing#generative_ai_models)
 - Generative AI App Builder ([Blog](https://cloud.google.com/blog/products/ai-machine-learning/create-generative-apps-in-minutes-with-gen-app-builder), [Video 1](https://youtube.com/watch?v=0vM5UWC5crs), [Video 2](https://youtube.com/watch?v=kOmG83wGfTs))
-- Duet AI for Google Workspace ([Blog](https://workspace.google.com/blog/product-announcements/generative-ai), [Video](https://www.youtube.com/watch?v=6DaJVZBXETE))
-- Duet AI for Google Cloud ([Blog](https://cloud.google.com/blog/products/application-modernization/introducing-duet-ai-for-google-cloud), [Video](https://www.youtube.com/watch?v=g5TwQx60NXs))
+- Duet AI for Google Workspace (https://workspace.google.com/solutions/ai/)
+- Duet AI for Google Cloud (https://cloud.google.com/duet-ai)
 - Generative AI for Developers
   - [Palm API for Developers](https://developers.generativeai.google/products/palm)
   - [MakerSuite](https://developers.generativeai.google/products/makersuite)
@@ -63,6 +63,8 @@ Several products in Google Generative AI offerings are currently available for T
 ## Github Repositories
 - [Google Cloud Generative AI repository](https://github.com/GoogleCloudPlatform/generative-ai/tree/main): 
 This repository contains notebooks and content that demonstrate how to use, develop and manage generative AI workflows using Generative AI, powered by Vertex AI on Google Cloud.
+- [Google Cloud Gen AI Templates](https://github.com/rominirani/genai-apptemplates-googlecloud)
+This repository contains sample applications to kickstart Generative AI Application Development on Google Cloud.
 
 ## Articles (Google.com Blog)
 - **New*** [What is Multimodal Search: "LLMs with vision" change businesses](https://cloud.google.com/blog/products/ai-machine-learning/multimodal-generative-ai-search)
