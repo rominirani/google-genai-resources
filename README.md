@@ -63,17 +63,22 @@ Several products in Google Generative AI offerings are currently available for T
 ## Github Repositories
 - [Google Cloud Generative AI repository](https://github.com/GoogleCloudPlatform/generative-ai/tree/main): 
 This repository contains notebooks and content that demonstrate how to use, develop and manage generative AI workflows using Generative AI, powered by Vertex AI on Google Cloud.
-- [Google Cloud Gen AI Templates](https://github.com/rominirani/genai-apptemplates-googlecloud)
+- [Google Cloud Gen AI Templates](https://github.com/rominirani/genai-apptemplates-googlecloud):
 This repository contains sample applications to kickstart Generative AI Application Development on Google Cloud.
 
 ## Articles (Google.com Blog)
-- **New*** [What is Multimodal Search: "LLMs with vision" change businesses](https://cloud.google.com/blog/products/ai-machine-learning/multimodal-generative-ai-search)
-- **New*** [Tips to enhance your prompt-engineering abilities](https://cloud.google.com/blog/products/application-development/five-best-practices-for-prompt-engineering)
-- **New*** [4 key learnings to kickstart your startup's generative AI journey](https://cloud.google.com/blog/topics/startups/generative-ai-for-startups-on-google-cloud)
-- **New*** [Building Generative AI applications made easy with Vertex AI PaLM API and LangChain](https://cloud.google.com/blog/products/ai-machine-learning/generative-ai-applications-with-vertex-ai-palm-2-models-and-langchain)
-- **New*** [Cloud Speech-to-Text V2 API and Chirp are now Generally Available with new lower pricing tier](https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-speech-to-text-v2-api)
-- **New*** [SQL-only LLM for text generation using Vertex AI model in BigQuery](https://cloud.google.com/blog/products/ai-machine-learning/llm-with-vertex-ai-only-using-sql-queries-in-bigquery)
-- **New*** [Unlock real-time observability for Vertex AI with Datadog](https://cloud.google.com/blog/topics/partners/datadog-observability-now-available-for-vertex-ai)
+- ***New*** [Introducing Duet AI in Apigee API Management and Application Integration](https://cloud.google.com/blog/products/api-management/introducing-duet-ai-in-apigee-api-management-and-application-integration)
+- ***New*** [Harnessing the power of PaLM in BigQuery](https://cloud.google.com/blog/products/data-analytics/integrating-vertex-ai-foundation-models-in-bigquery)
+- ***New*** [Vertex AI extends enterprise-ready generative AI development with new models, tooling](https://cloud.google.com/blog/products/ai-machine-learning/vertex-ai-next-2023-announcements)
+- ***New*** [Vertex AI Search and Conversation is now generally available](https://cloud.google.com/blog/products/ai-machine-learning/vertex-ai-search-and-conversation-is-now-generally-available)
+- ***New*** [Expanding Duet AI, an AI-powered collaborator, across Google Cloud](https://cloud.google.com/blog/products/ai-machine-learning/duet-ai-in-google-cloud-preview)
+- [What is Multimodal Search: "LLMs with vision" change businesses](https://cloud.google.com/blog/products/ai-machine-learning/multimodal-generative-ai-search)
+- [Tips to enhance your prompt-engineering abilities](https://cloud.google.com/blog/products/application-development/five-best-practices-for-prompt-engineering)
+- [4 key learnings to kickstart your startup's generative AI journey](https://cloud.google.com/blog/topics/startups/generative-ai-for-startups-on-google-cloud)
+- [Building Generative AI applications made easy with Vertex AI PaLM API and LangChain](https://cloud.google.com/blog/products/ai-machine-learning/generative-ai-applications-with-vertex-ai-palm-2-models-and-langchain)
+- [Cloud Speech-to-Text V2 API and Chirp are now Generally Available with new lower pricing tier](https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-speech-to-text-v2-api)
+- [SQL-only LLM for text generation using Vertex AI model in BigQuery](https://cloud.google.com/blog/products/ai-machine-learning/llm-with-vertex-ai-only-using-sql-queries-in-bigquery)
+- [Unlock real-time observability for Vertex AI with Datadog](https://cloud.google.com/blog/topics/partners/datadog-observability-now-available-for-vertex-ai)
 - [Google Cloud expands availability of enterprise-ready generative AI](https://cloud.google.com/blog/products/ai-machine-learning/enterprise-ready-generative-ai-models-go-ga-in-vertex-ai)
 - [Conversational AI on Gen App Builder unlocks generative AI-powered chatbots and virtual agents](https://cloud.google.com/blog/products/ai-machine-learning/generative-ai-powered-chatbots-and-virtual-agents)
 - [The rise of GenEng: How AI changes the developer role](https://cloud.google.com/blog/products/ai-machine-learning/the-rise-of-geneng-how-ai-changes-the-developer-role)
