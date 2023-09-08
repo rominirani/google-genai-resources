@@ -19,7 +19,7 @@ Several products in Google Generative AI offerings are currently available for T
     - Speech Models ([Text-to-Speech](https://cloud.google.com/vertex-ai/docs/generative-ai/speech/text-to-speech) , [Speech-To-Text](https://cloud.google.com/vertex-ai/docs/generative-ai/speech/speech-to-text))
   - [Model Garden](https://cloud.google.com/model-garden)
   - [Pricing](https://cloud.google.com/vertex-ai/pricing#generative_ai_models)
-- Generative AI App Builder ([Blog](https://cloud.google.com/blog/products/ai-machine-learning/create-generative-apps-in-minutes-with-gen-app-builder), [Video 1](https://youtube.com/watch?v=0vM5UWC5crs), [Video 2](https://youtube.com/watch?v=kOmG83wGfTs))
+- Vertex AI Search and Conversation (formerly known as Gen AI App Builder) ([https://cloud.google.com/generative-ai-app-builder])
 - Duet AI for Google Workspace (https://workspace.google.com/solutions/ai/)
 - Duet AI for Google Cloud (https://cloud.google.com/duet-ai)
 - Generative AI for Developers
