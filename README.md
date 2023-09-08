@@ -95,6 +95,7 @@ This repository contains sample applications to kickstart Generative AI Applicat
 
 ## Developer Blog Posts + Videos ([Google Cloud Medium Community](https://medium.com/google-cloud) and other places)
 
+- **New** [How Google Cloud Is Leveraging Generative AI To Outsmart Competition](https://www.forbes.com/sites/janakirammsv/2023/09/04/how-google-cloud-is-leveraging-generative-ai-to-outsmart-competition/)
 - **New** [Vertex AI Workbench Tips](https://medium.com/google-cloud/vertex-ai-workbench-tips-f4b517f2c16c)
 - **New** [Powering Q&A Chatbots with AlloyDB and GenAI Models](https://medium.com/google-cloud/powering-q-a-chatbots-with-alloydb-and-genai-models-e6332b62383c)
 - **New** [Automating Log Analysis and Troubleshooting with PaLM API](https://medium.com/google-cloud/automating-log-analysis-and-troubleshooting-with-the-palm-api-891ac31af1ae)
